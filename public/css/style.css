@@ -1,0 +1,190 @@
+#logo
+{
+    height:3.5rem;
+    width:5.5rem;
+    padding-bottom: 2rem;
+    padding-left: .5rem;
+}
+
+.Room
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-align: right;
+    left:-30rem;
+    top:-5rem;
+   
+}
+
+.Register
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    text-align: right;
+    left:-6rem;
+    top:-8.5rem;
+}
+
+#bor
+{
+    
+    border-bottom:1px solid red;
+    margin-bottom: 15px;
+    
+    width:102%;
+}
+
+
+#back
+{
+    position: relative;
+    left:2rem;
+}
+label
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.2rem;
+    
+}
+#count
+{
+    width:2.5rem;
+}
+#search
+{
+    position: relative;
+   top:-30rem;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: inherit;
+   color:rgb(236, 240, 9);
+   padding:0rem 4rem;
+}
+
+#but
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1rem;
+    color:black;
+    width:10%;
+    text-transform: capitalize;
+}
+body{
+    padding:0rem 5rem;
+}
+
+#promotion
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    font-style: normal;
+    color:yellowgreen;
+    border-style: dashed;
+    border-color: aqua;
+    padding-left: 1.2rem;
+    text-align: center;
+    position: relative;
+    top:-10rem;
+    
+}
+
+#aboutus
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1rem;
+    font-style: initial;
+    position: relative;
+    padding: 0rem 0rem 1rem 2rem;
+    text-align: justify;
+    top:-7rem;
+}
+
+h6
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1rem;
+    color:purple;
+}
+
+footer{
+    position: relative;;
+    display:inline-block;
+    bottom:0;
+    left:0;
+    right:0;   
+    width:102%;
+    border-top: 2px solid rgb(144, 207, 243);
+    background-color: rgb(252, 252, 252);
+    
+  
+}
+
+#icons
+{
+    
+    color:red;
+    float:right;
+    padding-bottom: 2rem;
+    
+}
+
+#extra
+{
+  left:10rem;
+  margin-left:40rem;
+}
+#signup
+{
+    position: absolute;
+    left:30em;
+    
+
+}
+
+#user
+{
+    position: relative;
+    padding-left: 2rem;
+    padding-bottom: 5rem;
+}
+
+#signupuser
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1rem;
+    background-color:rgb(190, 152, 152);
+    width:10%;
+    text-transform: capitalize;
+    
+}
+
+.room1
+{
+   
+    float:left;
+    margin-right: 1rem;
+}
+
+.room2
+{
+    float:left;
+    margin-right: 1rem;
+    padding-bottom: 10rem;
+}
+
+#rooml1
+{
+    position: relative;
+    display: inline;
+    
+}
+#rooml2
+{
+    position: relative;
+    
+}
+
+h4{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:0.75rem;
+}
